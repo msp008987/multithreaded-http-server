@@ -1,4 +1,4 @@
-# 🚀 Multithreaded Web Server in C++17
+# 🚀 Multithreaded Web Server in C++
 
 A high-performance multithreaded web server built in C++17 using POSIX sockets, a thread pool, and asynchronous logging. Designed to handle multiple concurrent connections efficiently and serve static HTML content.
 
