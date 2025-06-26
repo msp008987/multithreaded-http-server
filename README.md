@@ -86,4 +86,4 @@ Generates: `results/graph.png`
 ---
 
 ## 🧑‍💻 Author
-**Mihir Patel**  
+**Mihirkumar Patel**  
